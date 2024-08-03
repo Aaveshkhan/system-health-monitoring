@@ -16,7 +16,6 @@ Script used to monitor the health of a Linux system. It checks the CPU usage, me
 `cd mytestenv/`
 
 <br />
-
 `source ./bin/activate`
 
 ## Step 5: Install requirements.txt using pip
