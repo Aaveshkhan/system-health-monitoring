@@ -13,9 +13,7 @@ Script used to monitor the health of a Linux system. It checks the CPU usage, me
 `mv main.py requirements.txt mytestenv/`
 
 ## Step 4: Start up VENV
-`cd mytestenv/`
-
-<br />
+`cd mytestenv/`  <br />
 `source ./bin/activate`
 
 ## Step 5: Install requirements.txt using pip
